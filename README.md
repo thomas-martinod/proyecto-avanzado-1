@@ -2,6 +2,14 @@
 
 A continuación, las referencias empleadas hasta la fecha en el desarrollo del anteproyecto y la primera exposición:
 
+## Avance oral del anteproyecto
+
+[1]	Y.-H. Kim, «Acoustic Holography», en Springer Handbook of Acoustics, T. D. Rossing, Ed., New York, NY: Springer New York, 2014, pp. 1115-1137. doi: 10.1007/978-1-4939-0755-7_26.
+
+[2]	E. Anello, «A Comprehensive Guide of Regularization Techniques in Deep Learning», Understanding how Regularization can be useful to improve the performance of your model. Accedido: 15 de febrero de 2024. [En línea]. Disponible en: https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67
+![image](https://github.com/thomas-martinod/proyecto-avanzado-1/assets/110356084/9c723b8c-dd5f-440c-bfbc-056d25ddf2b2)
+
+
 ## Anteproyecto
 [1]	A. Tarantola, Inverse Problem Theory and Methods for Model Parameter Estimation. Society for Industrial and Applied Mathematics, 2005. doi: 10.1137/1.9780898717921.
 
@@ -37,9 +45,3 @@ A continuación, las referencias empleadas hasta la fecha en el desarrollo del a
 
 [17]	C. S. Marcum y R. Donohue, «Breakthroughs for All: Delivering Equitable Access to America’s Research», OSTP blog. Accedido: 15 de febrero de 2024. [En línea]. Disponible en: https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/
 
-## Avance oral del anteproyecto
-
-[1]	Y.-H. Kim, «Acoustic Holography», en Springer Handbook of Acoustics, T. D. Rossing, Ed., New York, NY: Springer New York, 2014, pp. 1115-1137. doi: 10.1007/978-1-4939-0755-7_26.
-
-[2]	E. Anello, «A Comprehensive Guide of Regularization Techniques in Deep Learning», Understanding how Regularization can be useful to improve the performance of your model. Accedido: 15 de febrero de 2024. [En línea]. Disponible en: https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67
-![image](https://github.com/thomas-martinod/proyecto-avanzado-1/assets/110356084/9c723b8c-dd5f-440c-bfbc-056d25ddf2b2)
