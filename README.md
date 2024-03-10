@@ -7,7 +7,6 @@ A continuación, las referencias empleadas hasta la fecha en el desarrollo del a
 [1]	Y.-H. Kim, «Acoustic Holography», en Springer Handbook of Acoustics, T. D. Rossing, Ed., New York, NY: Springer New York, 2014, pp. 1115-1137. doi: 10.1007/978-1-4939-0755-7_26.
 
 [2]	E. Anello, «A Comprehensive Guide of Regularization Techniques in Deep Learning», Understanding how Regularization can be useful to improve the performance of your model. Accedido: 15 de febrero de 2024. [En línea]. Disponible en: https://towardsdatascience.com/a-comprehensive-guide-of-regularization-techniques-in-deep-learning-c671bb1b2c67
-![image](https://github.com/thomas-martinod/proyecto-avanzado-1/assets/110356084/9c723b8c-dd5f-440c-bfbc-056d25ddf2b2)
 
 
 ## Anteproyecto
