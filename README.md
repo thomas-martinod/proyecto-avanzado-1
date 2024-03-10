@@ -1,4 +1,4 @@
-# proyecto-avanzado-1
+# Proyecto Avanzado 1
 
 A continuación, las referencias empleadas hasta la fecha en el desarrollo del anteproyecto y la primera exposición:
 
