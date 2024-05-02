@@ -1,8 +1,23 @@
 # Proyecto Avanzado 1
 
-A continuación, las referencias empleadas hasta la fecha en el desarrollo del anteproyecto y la primera exposición:
+A continuación, las referencias empleadas hasta la fecha en el desarrollo del anteproyecto, la primera y segunda exposición:
+## Entrega 1
 
-## Avance oral del anteproyecto
+[1]	Wikipedia, «Holography». [En línea]. Disponible en: https://en.wikipedia.org/wiki/Holography
+
+[2]	H. M. Smith, Principles of holography. New York: Wiley-Interscience, 1969.
+
+[3]	R. (Rick) Scholte, «Fourier based high-resolution near-field sound imaging», 2008, doi: 10.6100/IR639528.
+
+[4]	T. Fushimi, K. Yamamoto, y Y. Ochiai, «Acoustic hologram optimisation using automatic differentiation», Sci. Rep., vol. 11, n.o 1, p. 12678, jun. 2021, doi: 10.1038/s41598-021-91880-2.
+
+[5]	Acoustic cameras can SEE sound, (20 de marzo de 2023). Accedido: 2 de marzo de 2024. [En línea Video]. Disponible en: https://www.youtube.com/watch?v=QtMTvsi-4Hw
+
+[6]	P. Hariharan, Basics of holography. Cambridge, UK New York, NY: Cambridge University Press, 2002.
+
+
+
+## Entrega oral del anteproyecto
 
 [1]	Y.-H. Kim, «Acoustic Holography», en Springer Handbook of Acoustics, T. D. Rossing, Ed., New York, NY: Springer New York, 2014, pp. 1115-1137. doi: 10.1007/978-1-4939-0755-7_26.
 
