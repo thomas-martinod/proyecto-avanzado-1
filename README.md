@@ -1,6 +1,14 @@
 # Proyecto Avanzado 1
 
 A continuación, las referencias empleadas hasta la fecha en el desarrollo del anteproyecto, la primera y segunda exposición:
+
+## Entrega 2
+La mas importante referencia para este proyecto es:
+
+[1]	G. Chardon, L. Daudet, A. Peillot, F. Ollivier, N. Bertin, y R. Gribonval, «Near-field acoustic holography using sparse regularization and compressive sampling principles», J. Acoust. Soc. Am., vol. 132, n.o 3, pp. 1521-1534, sep. 2012, doi: 10.1121/1.4740476.
+
+
+
 ## Entrega 1
 
 [1]	Wikipedia, «Holography». [En línea]. Disponible en: https://en.wikipedia.org/wiki/Holography
