@@ -31,10 +31,10 @@ frequencies = [78, 402, 1483, 3297]
 cmaps = ['viridis', 'cividis', 'plasma', 'inferno']
 
 for i in range(1, 5):
-    matrix_groundtruth = np.loadtxt(f'images-data/matrix-figure-{i}-1.csv', delimiter=',')
+    matrix_groundtruth = np.loadtxt(f'figures/images-data/matrix-figure-{i}-1.csv', delimiter=',')
 
     for j in range(1, 7):
-        matrix_regularized = np.loadtxt(f'images-data/matrix-figure-{i}-{j}.csv', delimiter=',')
+        matrix_regularized = np.loadtxt(f'figures/images-data/matrix-figure-{i}-{j}.csv', delimiter=',')
 
         # Compute the correlation between the matrices
         correlation = compute_2d_correlation(matrix_groundtruth, matrix_regularized)
@@ -55,6 +55,8 @@ for i in range(1, 5):
         ax_img = fig.add_subplot(gs[0, 0])
         im = ax_img.imshow(matrix_regularized, cmap=cmaps[i-1], aspect='auto')
         cbar = fig.colorbar(im, ax=ax_img)
+        cbar.set_label('$\dot{w}(x,y)$ [m/s]')
+
 
         # Set the color bar ticks to scientific notation
         cbar.ax.yaxis.set_major_formatter(ticker.ScalarFormatter(useMathText=True))
@@ -80,4 +82,4 @@ for i in range(1, 5):
 
         plt.tight_layout()
 
-        plt.savefig(f'generated-images/fig-{i}-{j}.pdf', format='pdf')
+        plt.savefig(f'figures/generated-images/fig-{i}-{j}.pdf', format='pdf')
