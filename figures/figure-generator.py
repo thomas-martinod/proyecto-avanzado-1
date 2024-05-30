@@ -20,11 +20,11 @@ plt.rcParams.update({
 
 titles = [
     'Ground truth, ',
-    'Tikhonov ($L_2$ norm), $m=1920$ (reg), ',
-    'Tikhonov ($L_2$ norm), $m=120$ (reg), ',
-    'Sparcity ($L_1$ norm), $m=120$ (reg), ',
-    'Sparcity ($L_1$ norm), $m=120$ (ran), ',
-    'ML with $L_1$ norm, $m=120$ (reg), '
+    'Tikhonov Regularization, $m=1920$ (reg), ',
+    'Tikhonov Regularization, $m=120$ (reg), ',
+    'Sparcity Regularization, $m=120$ (reg), ',
+    'Sparcity Regularization, $m=120$ (ran), ',
+    'ML with sparcity regularization, $m=120$ (reg), '
 ]
 
 frequencies = [78, 402, 1483, 3297]
