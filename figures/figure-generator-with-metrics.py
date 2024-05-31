@@ -22,8 +22,8 @@ titles = [
     'Ground truth, ',
     'Tikhonov Regularization, $m=1920$ (reg), ',
     'Tikhonov Regularization, $m=120$ (reg), ',
-    'Sparcity Regularization, $m=120$ (reg), ',
-    'Sparcity Regularization, $m=120$ (ran), ',
+    'Sparsity Regularization, $m=120$ (reg), ',
+    'Sparsity Regularization, $m=120$ (ran), ',
     'ML with sparcity regularization, $m=120$ (reg), '
 ]
 
